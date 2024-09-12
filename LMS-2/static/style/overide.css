@@ -1,0 +1,124 @@
+* {
+    font-family: "Platypi", serif;
+}
+.container {
+    background-color: rgb(217, 248, 226);
+}
+
+.min-vh {
+    min-height: 100vh;
+}
+
+.fs-regular {
+  font-family: "Inter", serif !important;
+}
+/*a[href] {*/
+/*    colo*/
+/*}*/
+.pt-300 {
+  font-family: "Platypi", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.pt-500 {
+  font-family: "Platypi", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.wall-bg {
+    position: relative;
+}
+
+.wall--heading {
+
+    padding-left: 100px;
+    padding-top: 80px;
+}
+
+
+/* By  Guddu */
+/* home.css */
+.section-card, .book-card {
+transition: transform 0.3s, box-shadow 0.3s;
+  }
+.section-card:hover, .book-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.text-muted {
+  color: #6c757d !important;
+  font-size: 1.1rem;
+}
+.card-body {
+  padding: 1rem;
+}
+.card-title {
+  font-size: 1.25rem;
+}
+.book-card .card-body {
+  padding: 0.75rem;
+}
+.book-card .card-title {
+  font-size: 1rem;
+}
+.modal .modal-dialog {
+max-width: 600px;
+margin: 1.75rem auto;
+}
+
+/* mybooks.css */
+
+.book-card {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.book-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.card-body {
+  padding: 1rem;
+}
+.card-title {
+  font-size: 1.25rem;
+}
+.form-control {
+  margin-bottom: 1rem;
+}
+.btn {
+  margin-right: 0.5rem;
+}
+
+
+/* search.css */
+
+.section-card, .book-card {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.section-card:hover, .book-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.text-muted {
+  color: #6c757d !important;
+  font-size: 1.1rem;
+}
+.card-body {
+  padding: 1rem;
+}
+.card-title {
+  font-size: 1.25rem;
+}
+.book-card .card-body {
+  padding: 0.75rem;
+}
+.book-card .card-title {
+  font-size: 1rem;
+}
+.modal .modal-dialog {
+  max-width: 600px;
+  margin: 1.75rem auto;
+}
